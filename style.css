@@ -44,3 +44,25 @@ nav{
     justify-content: center;
 
 }
+
+.about-me{
+    background-color: rgb(161, 106, 106);
+    padding: 64px 48px;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    
+}
+
+.about-me{
+    text-align: center;
+}
+.profile-photo {
+    height:200px;
+    width: 200px;
+    background-color: #d9d9d9;
+    border-radius: 100%;
+}
+.bio{
+    text-align: justify;
+}
